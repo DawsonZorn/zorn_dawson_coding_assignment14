@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+# 1. Build the Docker image:
+# docker build -t zorn_dawson_coding_assignment14 .
+
+# 2. Run the Docker container:
+# docker run -p 5575:80 --name zorn_dawson_coding_assignment14 zorn_dawson_coding_assignment14
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
